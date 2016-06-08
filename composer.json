@@ -1,0 +1,6 @@
+{
+	"require" : {
+		"wp-cli/wp-cli" : "~0.22",
+		"psy/psysh" : "~0.6"
+	}
+}
